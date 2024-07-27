@@ -11,6 +11,7 @@ public class Main {
             System.out.println(" Возраст человека " + age + " , он совершеннолетний");
         } else System.out.println(" Возраст человека " + age + " , он не достиг совершеннолетия, нужно немного подождать");
 
+
         //Task 2;
         System.out.println(" Task 2 ");
 
